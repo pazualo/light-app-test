@@ -1,0 +1,266 @@
+[
+    {
+        "system": {
+            "id": 1,
+            "name": "Demo System 1"
+        },
+        "type": {
+            "id": 5,
+            "name": "Compressed Air"
+        },
+        "Efficiencies": [
+            {
+                "date": "20/03/2019",
+                "efficiency": "3.5"
+            },
+            {
+                "date": "21/03/2019",
+                "efficiency": "3.5"
+            },
+            {
+                "date": "22/03/2019",
+                "efficiency": "4.5"
+            },
+            {
+                "date": "23/03/2019",
+                "efficiency": "5.5"
+            },
+            {
+                "date": "24/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "25/03/2019",
+                "efficiency": "3"
+            },
+            {
+                "date": "26/03/2019",
+                "efficiency": "7"
+            },
+            {
+                "date": "27/03/2019",
+                "efficiency": "10"
+            }
+        ]
+    },
+    {
+        "system": {
+            "id": 2,
+            "name": "Demo System 2"
+        },
+        "type": {
+            "id": 5,
+            "name": "Compressed Air"
+        },
+        "Efficiencies": [
+            {
+                "date": "20/03/2019",
+                "efficiency": "2"
+            },
+            {
+                "date": "21/03/2019",
+                "efficiency": "8"
+            },
+            {
+                "date": "22/03/2019",
+                "efficiency": "9"
+            },
+            {
+                "date": "23/03/2019",
+                "efficiency": "9.6"
+            },
+            {
+                "date": "24/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "25/03/2019",
+                "efficiency": "4"
+            },
+            {
+                "date": "26/03/2019",
+                "efficiency": "4"
+            },
+            {
+                "date": "27/03/2019",
+                "efficiency": "2"
+            }
+        ]
+    },
+    {
+        "system": {
+            "id": 3,
+            "name": "Demo System 3"
+        },
+        "type": {
+            "id": 5,
+            "name": "Compressed Air"
+        },
+        "Efficiencies": [
+            {
+                "date": "20/03/2019",
+                "efficiency": "2"
+            },
+            {
+                "date": "21/03/2019",
+                "efficiency": "3"
+            },
+            {
+                "date": "22/03/2019",
+                "efficiency": "3.5"
+            },
+            {
+                "date": "23/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "24/03/2019",
+                "efficiency": "5.3"
+            },
+            {
+                "date": "25/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "26/03/2019",
+                "efficiency": "4.8"
+            },
+            {
+                "date": "27/03/2019",
+                "efficiency": "1"
+            }
+        ]
+    },
+    {
+        "system": {
+            "id": 4,
+            "name": "Demo System 4"
+        },
+        "type": {
+            "id": 5,
+            "name": "Compressed Air"
+        },
+        "Efficiencies": [
+            {
+                "date": "20/03/2019",
+                "efficiency": "1.5"
+            },
+            {
+                "date": "21/03/2019",
+                "efficiency": "2.5"
+            },
+            {
+                "date": "22/03/2019",
+                "efficiency": "3.5"
+            },
+            {
+                "date": "23/03/2019",
+                "efficiency": "4.5"
+            },
+            {
+                "date": "24/03/2019",
+                "efficiency": "7"
+            },
+            {
+                "date": "25/03/2019",
+                "efficiency": "6"
+            },
+            {
+                "date": "26/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "27/03/2019",
+                "efficiency": "8"
+            }
+        ]
+    },
+    {
+        "system": {
+            "id": 5,
+            "name": "Demo System 5"
+        },
+        "type": {
+            "id": 4,
+            "name": "Water"
+        },
+        "Efficiencies": [
+            {
+                "date": "20/03/2019",
+                "efficiency": "1"
+            },
+            {
+                "date": "21/03/2019",
+                "efficiency": "1"
+            },
+            {
+                "date": "22/03/2019",
+                "efficiency": "1"
+            },
+            {
+                "date": "23/03/2019",
+                "efficiency": "1.2"
+            },
+            {
+                "date": "24/03/2019",
+                "efficiency": "1"
+            },
+            {
+                "date": "25/03/2019",
+                "efficiency": "3"
+            },
+            {
+                "date": "26/03/2019",
+                "efficiency": "1"
+            },
+            {
+                "date": "27/03/2019",
+                "efficiency": "1.4"
+            }
+        ]
+    },
+    {
+        "system": {
+            "id": 6,
+            "name": "Demo System 6"
+        },
+        "type": {
+            "id": 5,
+            "name": "Compressed Air"
+        },
+        "Efficiencies": [
+            {
+                "date": "20/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "21/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "22/03/2019",
+                "efficiency": "5"
+            },
+            {
+                "date": "23/03/2019",
+                "efficiency": "4.5"
+            },
+            {
+                "date": "24/03/2019",
+                "efficiency": "2.3"
+            },
+            {
+                "date": "25/03/2019",
+                "efficiency": "5.8"
+            },
+            {
+                "date": "26/03/2019",
+                "efficiency": "4.8"
+            },
+            {
+                "date": "27/03/2019",
+                "efficiency": "10"
+            }
+        ]
+    }
+]
